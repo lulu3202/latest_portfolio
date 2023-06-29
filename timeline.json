@@ -1,0 +1,101 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "7"
+      },
+      "media": {
+        "url": "https://drive.google.com/file/d/1rV0eFT35EraWIRjHwBXnKls-aOfIBjMW/view?usp=sharing"
+      },
+      "text": {
+        "headline": "Technical Writer at TCS",
+        "text": "Post my undergrad, it was my love for communication that made me join a program management group with a multinational Information Technology firm called TCS, that focused on improving the quality of technical documents across SDLC "
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "6"
+      },
+      "media": {
+        "url": "https://drive.google.com/file/d/1v9ukYxbgaRuBe2DNIysuKkd8GTkndayI/view?usp=sharing"
+      },
+      "text": {
+        "headline": "Research Assistant at UT Dallas",
+        "text": "<p>I've always had a growth mindset. It was in my second year at my previous job that I hit my comfort zone. I wanted more from my life and more from my career. That's what brought me to the US in 2014. I completed my Masters in Information Technology Management, which is all about bridging the gap between the world of business and technology<p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "4"
+      },
+      "media": {
+        "url": "https://drive.google.com/file/d/1AocYsOFqQw-n7vhSXUkiIJXfa2aS1Hr_/view?usp=sharing"
+
+      },
+      "text": {
+        "headline": "Product Management Intern",
+        "text": "Translated strategic differentiators into innovative and detailed product requirements  for a new financial iOS application to help people manage their money better, through cross-functional collaboration with design, user testing and engineering teams"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2017",
+        "month": "4"
+      },
+      "media": {
+        "url": "https://drive.google.com/file/d/1GQiI_axIpjlcECuou5IkN4bg3Af0lM77/view?usp=sharing"
+
+
+      },
+      "text": {
+        "headline": "Product Specialist",
+        "text": "At Dynata, a market research firm, I was as a product specialist (a highly collaborative and data driven role within the product org), where I got to collaborate with different cross functional teams such as legal, sales, marketing and client services. (The domain here was market research) s"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2018",
+        "month": "2"
+      },
+      "media": {
+        "url": "https://drive.google.com/file/d/1nARIUwD2QKl9btuPFvqnWM1DE92kMJtH/view?usp=sharing"
+
+      },
+      "text": {
+        "headline": "Joined Big 4",
+        "text": "At Deloitte, I was with the Project Portfolio Management Practice, where I've helped multiple clients across 5 industries (retail/telecom/energy/govt/higher-ed), create and implement tech driven solutions to streamline business processes"
+      }
+    },
+
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "8"
+      },
+      "media": {
+        "url": "https://drive.google.com/file/d/1Qmhl0Kzt6mkMdvumCo26qP1iaNn5KBAi/view?usp=sharing"
+      },
+      "text": {
+        "headline": "Microsoft Journey",
+        "text": "With my two years at Microsoft, I've been a part of two different orgs, as a program manager for security org and more recently as a product manager for modern life experiences org, where I've led successful multiple cross functional projects "
+      }
+    },
+    {
+      "start_date": {
+        "year": "2022",
+        "month": "11"
+      },
+      "media": {
+        "url": "https://drive.google.com/file/d/1pV60FINZSB3SzSgt4H0aLwe-6BcpLYj0/view?usp=sharing"
+      },
+      "text": {
+        "headline": "Onwards and Upwards",
+        "text": "Intentionally planning my next career move  to join a new role with a company that I believe is making a difference to planet earth"
+      }
+
+   }
+  ]
+}

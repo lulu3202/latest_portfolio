@@ -1,6 +1,7 @@
 # pandas help read csv content
 import streamlit as st
 import pandas
+from streamlit_timeline import timeline
 
 # Set the page configuration
 st.set_page_config(page_title="devi karuppiah's portfolio", layout="wide", page_icon='👧🏽✨')
@@ -48,11 +49,16 @@ with col4:
     for index, row in df[10:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
+
         st.image("images/" + row["image"])
         st.write(f"[Source Code]({row['url']})")
 
+st.subheader('Career snapshot')
 
-
+with st.spinner(text="Building line"):
+    with open('timeline.json', "r") as f:
+        data = f.read()
+        timeline(data, height=500)
 
 
 
