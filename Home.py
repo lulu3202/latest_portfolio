@@ -29,31 +29,12 @@ with col2:
     st.info(content)
 
 content2 = """
-Below you can find some of the apps I have built in Python. Feel free to contact me!
+Scroll down to read more about me. Feel free to contact me at https://www.linkedin.com/in/devipriyakaruppiah/!
 """
 st.write(content2)
 
-col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 
-df = pandas.read_csv("data.csv", sep=";")
-
-with col3:
-    for index, row in df[:10].iterrows():
-        st.header(row["title"])
-        st.write(row["description"])
-        st.image("images/" + row["image"])
-        st.write(f"[Source Code]({row['url']})")
-
-
-with col4:
-    for index, row in df[10:].iterrows():
-        st.header(row["title"])
-        st.write(row["description"])
-
-        st.image("images/" + row["image"])
-        st.write(f"[Source Code]({row['url']})")
-
-st.subheader('Career snapshot')
+st.title('Career Snapshot')
 
 with st.spinner(text="Building line"):
     with open('timeline.json', "r") as f:
@@ -61,6 +42,23 @@ with st.spinner(text="Building line"):
         timeline(data, height=500)
 
 
+# Display heading
+    st.title('Education 📚')
+def main():
+    # Define table data
+    table_data = [
+        ['Qualification', 'Major', 'Graduation Year', 'Institute', 'Score'],
+        ['Bachelor\'s Degree', 'Btech', '2012', 'SASTRA University', '8.1 (Honors)'],
+        ['Master\'s Degree', 'Information Technology Management', '2016', 'UT Dallas', '3.6'],
+        ['Certification', 'AI Product Management Specialization', '2023', 'Duke University via Coursera', 'NA'],
+        ['Certification', 'Mastering OpenAI Python APIs', '2023', 'Udemy', 'NA']
+    ]
+
+    # Display the table
+    st.table(table_data)
+
+if __name__ == '__main__':
+    main()
 
 
 
