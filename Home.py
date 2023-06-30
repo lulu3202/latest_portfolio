@@ -14,7 +14,7 @@ with col2:
     content = """
     Hi, I am Devi! ✨
 
-    I've always been an editor at heart. It was this love for communication that me start out as a technical writer for a multinational IT firm. I wanted more out of life and work. I got my wish granted on Xmas of 2014, when I stepped into US for the first time to pursue my Master's in IT Management at UT Dallas. It has been an eventful 8+ years.
+    I've always been an editor at heart. It was this love for communication that made me start out as a technical writer for a multinational IT firm. I wanted more out of life and work. I got my wish granted on Xmas of 2014, when I stepped into US for the first time to pursue my Master's in IT Management at UT Dallas. It has been an eventful 8+ years.
     
     Be it life or work, I always see the big picture and embrace challenges as opportunities. I shine at creating clarity, generating excitment and getting things done. I bring enthusiasm and a 'roll-up-your-sleeves' attitude to every task. Being purpose driven, I'm wired to look for opportunities to make a positive difference in people's lives.
     """
